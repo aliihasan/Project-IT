@@ -1,0 +1,23 @@
+{
+  "name": "project-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "daemon": "^1.1.0",
+    "init": "^0.1.2",
+    "inquirer": "^9.2.16",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
